@@ -1,0 +1,6 @@
+vertex-pipeline-ci-cd/
+├── pipeline.py          # Código del pipeline
+├── requirements.txt     # Dependencias
+├── cloudbuild.yaml      # Configuración CI/CD
+└── data.csv             # Datos de ejemplo
+    
